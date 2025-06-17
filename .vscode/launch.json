@@ -1,10 +1,10 @@
 {
   "configurations": [
     {
-      "name": "program_name",
+      "name": "Yggdrasil",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/build/program_name",
+      "program": "${workspaceFolder}/build/Yggdrasil",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",

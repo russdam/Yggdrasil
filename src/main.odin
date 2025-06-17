@@ -1,4 +1,4 @@
-package program_name
+package Yggdrasil
 
 import "core:fmt"
 import "core:mem"
